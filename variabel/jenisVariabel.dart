@@ -1,9 +1,9 @@
 void main() {
   var nama = 'rimba'; // tipe data string
-  var umur = 19; // tipe data int
-  var beratBadan = 70.1; // tipe data pecahan
-  var ceweFav = ['Oline', 'Christy']; // tipe data list
-  var isi = {
+  int umur = 19; // tipe data int
+  double beratBadan = 70.1; // tipe data pecahan
+  List ceweFav = ['Oline', 'Christy']; // tipe data list
+  Map isi = {
     'nama' : nama,
     'umur' : umur,
     'berat badan' : beratBadan,
